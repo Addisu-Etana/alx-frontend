@@ -51,4 +51,5 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Addisu Etana** - [Addisu](https://github.com/Addisu-Etana)
+*  <a href="https://www.linkedin.com/in/addisu-etana-117258252/">Click here for linkdin adress</a>
