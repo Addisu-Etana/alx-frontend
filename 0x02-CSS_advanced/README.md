@@ -136,5 +136,7 @@ Read or watch:
 ---
 
 ## Author
-*[this is my linkdin address](www.facebook.com)
+* [this is my linkdin address](https://www.facebook.com)
 * **Addisu-Etana** - [Addisu](https://github.com/Addisu-Etana)
+
+
