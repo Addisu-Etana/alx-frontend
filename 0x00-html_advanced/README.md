@@ -169,4 +169,5 @@ Read or watch:
   [<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/Addisu-Etana)
   [<img src="https://img.shield.io/badge/Facebook-0866FF.svg?&style=plastic&logo=facebook&logocolor=white"/>](https://www.facebook.com/addisuzola)
   [<img src="https://img.shield.io/badge/Telegram-26A5E4.svg?&style=plastic&logo=Telegram&logocolor=white"/>](https://t.me/addisuzola)
+  ![My Facebook Address](https://www.facebook.com/addisuzola)
 
